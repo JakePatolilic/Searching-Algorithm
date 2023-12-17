@@ -1,4 +1,4 @@
-namespace Trees
+namespace SearchVisual
 {
     internal static class Program
     {

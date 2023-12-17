@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TreeAlgo\TreeAlgo.csproj" />
+    <ProjectReference Include="..\TreeAlgo\SearchAlgo.csproj" />
   </ItemGroup>
 
 </Project>
